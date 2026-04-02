@@ -53,7 +53,7 @@ class DetectionEngine:
         
         user=event["data"][5] if len(event["data"])>5 else "unknown"
         if len(self.failed_logins.get(user, []))>=3:
-            self.add_alert(
+            self._add_alert(
                 severity="CRITICO",
                 rule="brute_force_success",
                 description=f"Login riuscito per '{user}' dopo"
