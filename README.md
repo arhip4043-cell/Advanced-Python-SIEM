@@ -65,11 +65,11 @@ graph TD
 
 Per approfondire le logiche di analisi comportamentale e i flussi di risposta, consulta la documentazione dettagliata:
 
--   🔗 [Diagrammi di Sequenza e Timeline degli Attacchi](https://www.google.com/url?sa=E&q=docs/DETECTION_LOGIC.md)
+-   🔗 [Diagrammi di Sequenza e Timeline degli Attacchi](docs/DETECTION_LOGIC.md)
     
--   🔗 [Analisi dell'Albero dei Processi Malware (LOLBins)](https://www.google.com/url?sa=E&q=docs/DETECTION_LOGIC.md)
+-   🔗 [Analisi dell'Albero dei Processi Malware (LOLBins)](docs/DETECTION_LOGIC.md)
     
--   🔗 [Workflow Operativo SOC (Incident Response)](https://www.google.com/url?sa=E&q=docs/DETECTION_LOGIC.md)
+-   🔗 [Workflow Operativo SOC (Incident Response)](docs/DETECTION_LOGIC.md)
     
 
 * * *
