@@ -1,4 +1,4 @@
-# 🧠 Logiche di Analisi Tecniche e SOC Workflow
+# 🧠 Logiche di Analisi Tecniche del Programma
 
 Questo documento approfondisce le regole di correlazione implementate nel motore del SIEM e illustra come il sistema si integra nei processi operativi di un Security Operations Center (SOC) e nell'Incident Response.
 
