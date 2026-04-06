@@ -111,7 +111,23 @@ python log_simulator.py
 
 ## 📸 Screenshot della Dashboard
 
-(Spazio per la foto della Dashboard di Flask)
+<img width="1359" height="686" alt="Screenshot from 2026-04-06 18-10-56" src="https://github.com/user-attachments/assets/a26b83ce-6d46-4c77-b643-bff73802429c" />
+La Dashboard al primo avvio 
+
+<img width="1359" height="686" alt="Screenshot from 2026-04-06 21-23-04" src="https://github.com/user-attachments/assets/69ab045a-4b98-445e-91c4-4248f333873a" />
+La Dasboard dopo l'avvio del log_simulator.py
+
+---
+## 📊 Reporting & Data Visualization
+
+Sono consapevole che l'individuazione delle minacce è solo metà del lavoro di un SOC Analyst; l'altra metà consiste nel **comunicare in modo chiaro l'impatto degli incidenti** al management e ai clienti.
+
+Per simulare la fase di *Post-Incident Reporting*, ho sviluppato un modulo Python dedicato che sfrutta la libreria `matplotlib`. Questo script estrae i dati dagli allarmi generati dal SIEM e crea automaticamente grafici di riepilogo pronti per essere allegati a un Incident Report ufficiale.
+
+<img width="2400" height="1800" alt="soc_alert_distribution_report" src="https://github.com/user-attachments/assets/d0c4db0a-7bcb-4541-9393-aa9ed5a22d3f" />
+
+*Esempio di Donut Chart generato automaticamente dal sistema. Il layout chiaro e pulito è stato appositamente ottimizzato per l'esportazione in documenti PDF e presentazioni aziendali, fornendo a colpo d'occhio i KPI (Key Performance Indicators) essenziali sul Triage.*
+
 
 * * *
 
