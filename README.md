@@ -9,7 +9,7 @@ Questo progetto è un **Mini-SIEM (Security Information and Event Management)** 
 
 Il progetto è stato sviluppato per dimostrare competenze pratiche operative tipiche di un **SOC Analyst (L1/L2)**, passando dalla pura teoria all'implementazione tecnica delle regole di rilevamento.
 
--   🔗 [Future Funzionalita nella seconda versione del SIEM](Advanced-Python-SIEM/Mini_SIEM_v2.md)
+-   🔗 [Future Funzionalita nella seconda versione del SIEM](Mini_SIEM_v2.md)
 ---
 
 ## 🧠 Core Features & Logica di Detection
